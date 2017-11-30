@@ -1,0 +1,23 @@
+{
+  "name": "brisum/wordpress-menu-bootstrap",
+  "description": "Wordpress Menu Bootstrap",
+  "keywords": [
+    "wordpress",
+    "menu",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-menu-bootstrap",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\Menu\\Bootstrap\\": "src/"
+    }
+  }
+}
