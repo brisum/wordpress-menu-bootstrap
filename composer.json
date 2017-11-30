@@ -1,12 +1,11 @@
 {
-  "name": "brisum/wordpress-menu-bootstrap",
-  "description": "Wordpress Menu Bootstrap",
+  "name": "brisum/wordpress-module-menu",
+  "description": "Wordpress Menu",
   "keywords": [
     "wordpress",
-    "menu",
-    "bootstrap"
+    "menu"
   ],
-  "homepage": "https://github.com/brisum/wordpress-menu-bootstrap",
+  "homepage": "https://github.com/brisum/wordpress-module-menu",
   "license": "MIT",
   "authors": [
     {
@@ -17,7 +16,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Brisum\\Wordpress\\Menu\\Bootstrap\\": "src/"
+      "Brisum\\Wordpress\\Menu\\": "src/"
     }
   }
 }
